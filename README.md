@@ -32,3 +32,9 @@ http://localhost:9000
 cd terraform
 terraform init
 terraform apply
+
+## Access Hosted Application
+
+Open browser:
+
+http://13.48.105.173/
